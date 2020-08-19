@@ -12,7 +12,7 @@
       }
     ]
   },
-  "description": "Redis Dashboard for Prometheus Redis Exporter 1.x",
+  "description": "Redis-Monitoring-Dashboard",
   "editable": true,
   "gnetId": 763,
   "graphTooltip": 0,
